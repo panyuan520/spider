@@ -1,0 +1,33 @@
+2013-06-19 00:57:10,056 ERROR 10054
+2013-06-19 00:57:40,427 ERROR The url http://news.sina.com.cn/ can't open, HTTPError
+2013-06-19 00:58:32,180 ERROR 10054
+2013-06-19 00:58:58,868 ERROR The url http://blog.sina.com.cn/ can't open, URLError
+2013-06-19 01:02:45,891 ERROR The url http://video.sina.com.cn/news/vlist/zt/g82013/?opsubject_id=top1#107434692 can't open, URLError
+2013-06-19 01:02:49,223 ERROR 10054
+2013-06-19 01:02:54,908 ERROR The url http://video.sina.com.cn/news/vlist/zt/cgbt2013/?opsubject_id=top1#107447468 can't open, URLError
+2013-06-19 01:03:45,288 ERROR The url http://video.sina.com.cn/sports/topgoal/#107301016 can't open, URLError
+2013-06-19 01:03:45,382 ERROR The url http://video.sina.com.cn/ent/#107444837 can't open, URLError
+2013-06-19 01:04:20,779 ERROR The url http://video.sina.com.cn/v/b/107048020-1818237293.html can't open, URLError
+2013-06-19 01:04:34,982 ERROR The url http://sina.allyes.com/main/adfclick?db=sina&bid=66825,97935,98029&cid=0,0,0&sid=90934&advid=1832&camid=13706&show=ignore&url=http://client.sina.com.cn/zt/haidianquzhengfu/index.shtml can't open, URLError
+2013-06-19 01:07:38,891 ERROR 10054
+2013-06-19 01:13:43,400 ERROR The url http://dealer.auto.sina.com.cn/price/search/price07_hot_1.html can't open, URLError
+2013-06-19 01:14:42,115 ERROR The url http://music.sina.com.cn/ can't open, URLError
+2013-06-19 01:16:10,088 ERROR The url http://slide.ent.sina.com.cn/star/slide_4_704_59646.html can't open, URLError
+2013-06-19 01:18:05,253 ERROR The url http://guba.sina.com.cn/?s=thread&bid=2318&tid=4223 can't open, HTTPError
+2013-06-19 01:18:42,436 ERROR The url http://vip.stock.finance.sina.com.cn/quotes_service/view/cn_bill_sum.php can't open, URLError
+2013-06-19 01:19:31,815 ERROR The url http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/jyts/index.phtml can't open, URLError
+2013-06-19 01:21:06,516 ERROR The url http://vip.stock.finance.sina.com.cn/fund_center/index.html#jzkfall can't open, URLError
+2013-06-19 01:24:41,049 ERROR The url http://vip.book.sina.com.cn/book/index_210614.html can't open, URLError
+2013-06-19 01:24:54,213 ERROR 10054
+2013-06-19 01:27:42,851 ERROR The url http://blog.sina.com.cn/s/blog_69f845650102ec01.html?tj=tech can't open, URLError
+2013-06-19 01:30:33,051 ERROR The url http://slide.tech.sina.com.cn/mobile/slide_5_22298_30296.html can't open, URLError
+2013-06-19 01:32:27,598 ERROR The url http://club.history.sina.com.cn/thread-5504891-1-1.html can't open, URLError
+2013-06-19 01:35:40,496 ERROR The url http://ka.sina.com.cn/ can't open, HTTPError
+2013-06-19 01:36:06,733 ERROR The url http://ka.sina.com.cn/ can't open, HTTPError
+2013-06-19 01:36:49,051 ERROR The url http://pfpclick.sina.com.cn/click/cpcclick.php?ad=mCKzC6akZSN/vzwlAc64oqrXV9kOLCgIAWfmVYzerM9VUIp6HiBNG7b9ypgIk9PtP6Pvop2RVQac/MCZ8QkOHcH9qtsflFuSIQ8FO0SJP4bCsUmMQZnpxnaQpC1gTMeOJWSEAZ2XOLY= can't open, URLError
+2013-06-19 01:36:50,891 ERROR The url http://pfpclick.sina.com.cn/click/cpcclick.php?ad=YCAWKl1OS8R/vzwlAc64oqrXV9kOLCgIAWfmVYzerM9VUIp6HiBNG/HC6T/Lq1ORptv/rh02u0t2x2srqQPMuCEPBTtEiT+GwrFJjEGZ6caOawoxSwWFr1xv5Z+oLIuY can't open, URLError
+2013-06-19 01:36:51,476 ERROR 10054
+2013-06-19 01:37:04,056 ERROR The url http://pfpclick.sina.com.cn/click/cpcclick.php?ad=GXeAQ9TzXRx/vzwlAc64oqrXV9kOLCgIEL+LQ8MADOePjLjQj/RhX1MV6PYzu0v2HGvnIrgSH0wM0USG2/5apPWXeTqNeVVv3pqPfEis3yM= can't open, URLError
+2013-06-19 01:38:01,332 ERROR The url http://slide.eladies.sina.com.cn/fa/slide_3_43198_20724.html can't open, URLError
+2013-06-19 01:41:04,010 ERROR 10054
+2013-06-19 01:41:04,010 ERROR 10054

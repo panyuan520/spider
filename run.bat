@@ -1,0 +1,1 @@
+spider.py -u "http://www.sina.com.cn" -d 2 -f "spider.log" -l 2 --test=""  -t 10 --dbfile "spider.db" --key="HTML5"
